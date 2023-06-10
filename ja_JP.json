@@ -3763,5 +3763,20 @@
     "Disable image generation. Useful if you only want to generate text prompts. (1 image will still be generated to keep Auto1111 happy.).": "画像生成を無効にします。プロンプトのテキストのみを生成したい場合に便利です。(Auto1111の状態を維持するため、1枚の画像は生成されます。)",
     "Add emphasis to a randomly selected keyword in the prompt.": "プロンプトの中からランダムに選ばれたキーワードに強調を加えます。",
     "Write template into image metadata.": "テンプレートを画像メタデータに書き込む。",
-    "Note: Each model will download between 300mb and 1.4gb of data on first use.": "注: 各モデルは、初期使用時に300MB ~ 1.4GBのデータをダウンロードします"
+    "Note: Each model will download between 300mb and 1.4gb of data on first use.": "注: 各モデルは、初期使用時に300MB ~ 1.4GBのデータをダウンロードします",
+    "Add Checkpoints to Workspace": "モデルをワークスペースに追加する",
+    "Add Textual Inversion to Workspace": "モデルをワークスペースに追加する",
+    "Add Hypernetworks to Workspace": "モデルをワークスペースに追加する",
+    "Add Lora to Workspace": "モデルをワークスペースに追加する",
+    "Additional Parameters": "追加パラメータ",
+    "Browse All Models": "すべてのモデル",
+    "Check-in": "チェックイン",
+    "Hide workspace models": "ワークスペースモデルを隠す",
+    "Mature Content": "成人向けコンテンツ",
+    "Model Gallery": "モデルギャラリー",
+    "Personal Workspace": "作業領域",
+    "Public Models": "公開モデル",
+    "Show workspace models": "ワークスペースモデルの表示",
+    "Upload Models": "モデルのアップロード",
+    "Upgrade": "プレミアムアカウントを購入する"
 }

@@ -3788,5 +3788,20 @@
   "Disable image generation. Useful if you only want to generate text prompts. (1 image will still be generated to keep Auto1111 happy.).": "停用圖像產生。這很有用，如果你只想產生文字提示。（仍將生成 1 張圖像以使 Auto1111 保持運行）",
   "Add emphasis to a randomly selected keyword in the prompt.": "在提示詞中隨機選擇一個關鍵字加上強調符",
   "Write template into image metadata.": "將範本寫入圖像中繼資料。",
-  "Note: Each model will download between 300mb and 1.4gb of data on first use.": "註記：每個模型第一次使用時會下載 300MB 到 1.4GB 的檔案。"
+  "Note: Each model will download between 300mb and 1.4gb of data on first use.": "註記：每個模型第一次使用時會下載 300MB 到 1.4GB 的檔案。",
+  "Add Checkpoints to Workspace": "添加更多基礎模型到工作空間",
+  "Add Textual Inversion to Workspace": "添加更多TI模型到工作空間",
+  "Add Hypernetworks to Workspace": "添加更多超網絡模型到工作空間",
+  "Add Lora to Workspace": "添加更多Lora模型到工作空間",
+  "Additional Parameters": "其他生成參數",
+  "Browse All Models": "模型庫",
+  "Check-in": "簽到",
+  "Hide workspace models": "隱藏工作空間模型",
+  "Mature Content": "成人內容",
+  "Model Gallery": "模型庫",
+  "Personal Workspace": "工作空間",
+  "Public Models": "公開模型",
+  "Show workspace models": "顯示工作空間模型",
+  "Upload Models": "上傳模型",
+  "Upgrade": "購買高級賬戶"
 }
