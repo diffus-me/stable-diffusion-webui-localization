@@ -13,7 +13,7 @@ This repo has the localization (Multi-language) files for [automatic1111/stable-
 9. Russian (Русский)
 10. Turkish (Türkçe)
 11. Simplified Chinese (简体中文)
-12. Traditional Chinese (繁体中文)
+12. Traditional Chinese (繁體中文)
 
 It also has the extra translations for [Diffus](https://diffus.graviti.com), our online stable diffusion webui service.
 
